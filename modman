@@ -1,0 +1,5 @@
+#Modman file for mapping checkoutapipayment 
+catalog/includes/modules/payment/checkoutapipayment.php catalog/includes/modules/payment/checkoutapipayment.php
+catalog/includes/modules/payment/checkoutapipayment catalog/includes/modules/payment/checkoutapipayment
+catalog/includes/languages/english/checkoutapipayment.php catalog/includes/languages/english/checkoutapipayment.php
+catalog/checkoutapipayment_webhook.php catalog/checkoutapipayment_webhook.php
